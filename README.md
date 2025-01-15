@@ -140,7 +140,7 @@ Failure: {"message": "Invalid credentials!"}
 ## Contributing
 If you would like to contribute to this project, feel free to fork the repository, create a new branch, and submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Note: Make sure to replace your-repository with your actual GitHub repository name and fill in your MongoDB URI and JWT secret in the .env file for the backend configuration.
